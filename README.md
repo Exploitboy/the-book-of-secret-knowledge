@@ -737,6 +737,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tails.boum.org/"><b>Tails</b></a> - is a live system that aims to preserve your privacy and anonymity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vedetta-com/vedetta"><b>vedetta</b></a> - OpenBSD router boilerplate.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.qubes-os.org"><b>Qubes OS</b></a> - is a security-oriented OS that uses Xen-based virtualization.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.whonix.org"><b>Whonix OS</b></a> -Kicksecure-based security hardened Linux distribution.Goals are to provide strong privacy and anonymity.<br>  
 </p>
 
 ##### :black_small_square: HTTP(s) Services
